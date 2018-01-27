@@ -1,0 +1,145 @@
+---
+title: "ADFG_FRP_2017"
+author: "Wendel Raymond"
+date: "January 26, 2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Alaska Department of Fish and Game Fisheries Resource permit reporting
+This script will take raw "tall" data, from multiple parent sources if necessary, and format it for the FRP reporting form.
+```{r libraries}
+library(dplyr)
+library(tidyr)
+```
+
+
+## Data
+```{r data}
+# Eelgrass Site
+eg.site <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS-master/ALL_DATA/seagrass_site_2017_RAW.csv", stringsAsFactors = FALSE, header = TRUE)
+
+# Eelgrass Biometrics (lab data)
+eg.bio <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS-master/ALL_DATA/seagrass_biometrics_CLEAN.csv", stringsAsFactors = FALSE, header = TRUE)
+
+# Eelgrass Transect
+eg.tran <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS-master/ALL_DATA/seagrass_transect_2017_RAW.csv", stringsAsFactors = FALSE, header = TRUE)
+
+# Crab Pot
+crab.dat <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS-master/All_DATA/seagrass_crab_pot_2017_RAW.csv", header = TRUE, stringsAsFactors = FALSE)
+
+# Beach Seine
+fish.dat <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS-master/ALL_DATA/seagrass_beach_seine_data_2017_RAW.csv", stringsAsFactors = FALSE, header = TRUE)
+
+fish.dat$unmeasured <- as.numeric(fish.dat$unmeasured)
+```
+
+## Eelgrass
+We did not directly count eelgrass that we collected but our protocol was to collect 5 shoots in 8 quadrats at all 21 of our sites = 840 individiuals. But we incedentidally collected ~ 10 more shoots at each site, so a total of 1050 for 50 per site.
+```{r n eelgrass}
+eg <- data.frame("site" = unique(eg.site$site), "sp" = rep("Zostera_marina", 21), "count" = 50)
+```
+
+## Grazers - small inverts
+This will come from the biometrics data
+```{r n grazers}
+## Summarise ##
+graz <- data.frame(
+  eg.bio %>% 
+    group_by(site) %>% 
+    summarise(Idothea_rascata = sum(iso_count, na.rm = TRUE),
+              Gammarid_amphipod = sum(gamm_amph_count, na.rm = TRUE),
+              Caprella_alaskana = sum(caprel_count, na.rm = TRUE),
+              Lottia_sp = sum(limpet_count, na.rm = TRUE),
+              Littorina_sp = sum(gastropod_count, na.rm = TRUE),
+              Polychaeta_sp = sum(polychaete_count, na.rm = TRUE))
+)
+
+## Convert to tall ##
+graz <- gather(graz, sp, count, Idothea_rascata:Polychaeta_sp)
+```
+
+## Crabs
+This data will come from the crab pot data. We also caught fish in pots so that will be extracted here and added to fish data later.
+```{r n crabs}
+## Crabs from pots ##
+crab <- data.frame(
+  crab.dat %>% 
+    filter(taxon == "Decapoda") %>% 
+    group_by(site, species_scientific) %>% 
+    summarise(n = n())
+)
+
+## Fish from pots ##
+fish.crab <- data.frame(
+  crab.dat %>% 
+    filter(taxon == "Vertebrata") %>% 
+    group_by(site, species_scientific) %>% 
+    summarise(n = n())
+)
+```
+
+## Fish
+This data will come from the beach seine data. We also caught crabs in the beach seine so that will be extracted here and added to the crab derived above.
+```{r n fish}
+fish.m <- fish.dat %>%
+  filter(taxon == "Vertebrata") %>%
+  filter(fork_length > 0)
+
+fish.um <- fish.dat  %>%
+  filter(taxon == "Vertebrata") %>% 
+  filter(unmeasured != "estimate") %>% # assume that infield estimates are accurate
+  filter(unmeasured > 0)
+
+fish.sum <- fish.m %>%
+  group_by(site, species_scientific) %>% 
+  summarise(measured = n())
+
+fish.sum.um <- fish.um %>%
+  group_by(site, species_scientific) %>% 
+  summarise(um = sum(unmeasured))
+
+fish.sum <- merge(fish.sum, fish.sum.um, by = c("site", "species_scientific"))
+fish.sum $total <- fish.sum$measured + fish.sum$um
+
+## Fish from seine ##
+fish <- data.frame(
+  fish.sum %>%
+    group_by(site, species_scientific) %>% 
+    summarise(n = sum(total))
+)
+
+## Crabs from seine ##
+crab.fish <- data.frame(
+  fish.dat %>%
+    filter(taxon != "Vertebrata") %>% 
+    group_by(site, species_scientific) %>% 
+    summarise(n = sum(unmeasured))
+)
+```
+
+## Bring it all together now
+Get all the summaries above into one nice happy table! Including site identifier information.
+```{r}
+## All the crabs ##
+crab <- merge(crab, crab.fish, by = c("site", "species_scientific"), all = TRUE)
+crab[is.na(crab)] <- 0
+crab$count <- (crab$n.x + crab$n.y)
+crab[crab == ""] <- "Decapoda"
+colnames(crab)[2] <- "sp"
+
+## All the fish ##
+fish <- merge(fish, fish.crab, by = c("site", "species_scientific"), all = TRUE)
+fish[is.na(fish)] <- 0
+fish$count <- (fish$n.x + fish$n.y)
+colnames(fish)[2] <- "sp"
+
+## Final Combine ##
+dat <- eg.site[,1:5]
+
+counts <- rbind.data.frame(crab[, c(1,2,5)], fish[, c(1,2,5)], eg, graz)
+
+dat <- merge(dat, counts, by = "site", all = TRUE)
+```
+
