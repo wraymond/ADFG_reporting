@@ -38,7 +38,7 @@ fish.dat$unmeasured <- as.numeric(fish.dat$unmeasured)
 ## Eelgrass
 We did not directly count eelgrass that we collected but our protocol was to collect 5 shoots in 8 quadrats at all 21 of our sites = 840 individiuals. But we incedentidally collected ~ 10 more shoots at each site, so a total of 1050 for 50 per site.
 ```{r n eelgrass}
-eg <- data.frame("site" = unique(eg.site$site), "sp" = rep("Zostera_marina", 21), "count" = 50)
+eg <- data.frame("site" = unique(eg.site$site), "sp" = rep("Zostera_marina", 21), "collection_method" = "hand", "count" = 50)
 ```
 
 ## Grazers - small inverts
@@ -58,6 +58,10 @@ graz <- data.frame(
 
 ## Convert to tall ##
 graz <- gather(graz, sp, count, Idothea_rascata:Polychaeta_sp)
+
+## Add colelction method ##
+graz <- data.frame(graz[,1:2], "collection_method" = "hand", graz[,3])
+colnames(graz)[4] <- "count"
 ```
 
 ## Crabs
@@ -100,7 +104,8 @@ fish.sum.um <- fish.um %>%
   group_by(site, species_scientific) %>% 
   summarise(um = sum(unmeasured))
 
-fish.sum <- merge(fish.sum, fish.sum.um, by = c("site", "species_scientific"))
+fish.sum <- merge(fish.sum, fish.sum.um, by = c("site", "species_scientific"), all = TRUE)
+fish.sum$um[is.na(fish.sum$um)] <- 0
 fish.sum $total <- fish.sum$measured + fish.sum$um
 
 ## Fish from seine ##
@@ -128,18 +133,30 @@ crab[is.na(crab)] <- 0
 crab$count <- (crab$n.x + crab$n.y)
 crab[crab == ""] <- "Decapoda"
 colnames(crab)[2] <- "sp"
+crab <- cbind(crab[,1:2], "collection_method" = "crab pot", crab[,5])
+colnames(crab)[4] <- "count"
 
 ## All the fish ##
 fish <- merge(fish, fish.crab, by = c("site", "species_scientific"), all = TRUE)
 fish[is.na(fish)] <- 0
 fish$count <- (fish$n.x + fish$n.y)
 colnames(fish)[2] <- "sp"
+fish <- cbind(fish[,1:2], "collection_method" = "beach seine", fish[,5])
+colnames(fish)[4] <- "count"
 
 ## Final Combine ##
 dat <- eg.site[,1:5]
 
-counts <- rbind.data.frame(crab[, c(1,2,5)], fish[, c(1,2,5)], eg, graz)
+counts <- rbind.data.frame(crab, fish, eg, graz)
 
 dat <- merge(dat, counts, by = "site", all = TRUE)
+
+dat <- cbind(dat[,1:7], data.frame(Life_stage = "adult/non-larval juveniles"), dat[,8])
+colnames(dat)[9] <- "Count"
+```
+
+## Export
+```{r}
+write.csv(dat, "ADFG_collections_CF_17_050.csv", row.names = FALSE)
 ```
 
