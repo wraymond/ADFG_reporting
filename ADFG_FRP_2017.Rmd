@@ -153,6 +153,11 @@ dat <- merge(dat, counts, by = "site", all = TRUE)
 
 dat <- cbind(dat[,1:7], data.frame(Life_stage = "adult/non-larval juveniles"), dat[,8])
 colnames(dat)[9] <- "Count"
+
+## Just group by species ##
+sp <- dat %>% 
+  group_by(sp) %>% 
+  summarise(total = sum(Count))
 ```
 
 ## Export
