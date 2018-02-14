@@ -158,10 +158,19 @@ colnames(dat)[9] <- "Count"
 sp <- dat %>% 
   group_by(sp) %>% 
   summarise(total = sum(Count))
+
+## Just fish for IACUC ##
+fish.sp <- fish %>% 
+  group_by(sp) %>% 
+  summarise(total = sum(count))
+
+fish.sp$total_retained <- 0
 ```
 
 ## Export
 ```{r}
 write.csv(dat, "ADFG_collections_CF_17_050.csv", row.names = FALSE)
+
+write.csv(fish.sp, "../../IACUC/IACUC_collections_2017.csv", row.names = FALSE)
 ```
 
