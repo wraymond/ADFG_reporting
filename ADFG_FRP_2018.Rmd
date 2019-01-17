@@ -35,6 +35,9 @@ fish.dat$unmeasured <- as.numeric(fish.dat$unmeasured)
 
 # Biomarkers
 biom.dat <- read.csv("E:/wraymond2/My Documents/Graduate School/APECS_master/ALL_DATA/Biomarker_collections_2018_RAW.csv", stringsAsFactors = FALSE, header = TRUE)
+
+# Tiff's additional data
+tiff.dat <- read.csv("E:/wraymond2/My Documents/Graduate School/Eelgrass/Eelgrass trophic relationships/Data/ADF&G_Stephens_2018.csv", stringsAsFactors = FALSE, header = TRUE)
 ```
 
 ## Eelgrass
@@ -204,6 +207,9 @@ colnames(crab)[2] <- "sp"
 crab <- cbind(crab[,1:2], "collection_method" = "crab pot", crab[,5])
 colnames(crab)[4] <- "count"
 
+# Add disposition #
+crab$Disposition <- "released live into wild"
+
 ## All the fish ##
 fish <- merge(fish, fish.crab, by = c("site", "species_scientific"), all = TRUE)
 fish[is.na(fish)] <- 0
@@ -212,14 +218,23 @@ colnames(fish)[2] <- "sp"
 fish <- cbind(fish[,1:2], "collection_method" = "beach seine", fish[,5])
 colnames(fish)[4] <- "count"
 
+# Add disposition #
+fish$Disposition <- "released live into wild"
+
+## Add disposition to other data ##
+eg$Disposition <- "regular trash"
+graz$Disposition <- "regular trash"
+clam$Disposition <- "released live into wild"
+biom$Disposition <- "freezer"
+
 ## Final Combine ##
 dat <- eg[,1:5]
 
 # standard data #
-counts <- rbind.data.frame(crab, fish, eg[,c(1,6:8)], graz, clam)
+counts <- rbind.data.frame(crab, fish, eg[,c(1,6:9)], graz, clam)
 
 # add biomarker
-counts <- merge(counts, biom[,1:4], by = c("site", "sp", "collection_method"), all = TRUE)
+counts <- merge(counts, biom[,c(1:4, 9)], by = c("site", "sp", "collection_method", "Disposition"), all = TRUE)
 
 # clean up 
 counts$count.x[is.na(counts$count.x)] <- 0
@@ -227,22 +242,25 @@ counts$count.y[is.na(counts$count.y)] <- 0
 
 counts$count <- counts$count.x + counts$count.y
 
-counts <- counts[,c(1:3, 6)]
+counts <- counts[,c(1:4, 7)]
 
 # Merge #
 dat <- merge(dat, counts, by = "site", all = TRUE)
 
 # add life stage #
-dat <- cbind(dat[,1:7], data.frame(Life_stage = "adult/non-larval juveniles"), dat[,8])
-colnames(dat)[9] <- "Count"
+dat <- cbind(dat[,c(3,2,4,5,7,6)], data.frame(Life_stage = "adult/non-larval juveniles"), dat[,c(9,8)])
 
-# remove site
-dat <- dat[,2:9]
+## Add Tiff's data ##
+colnames(tiff.dat) <- c("Site", "Date", "Latitude", "Longitude", "sp", "collection_method", "Life_stage", "count", "Disposition")
+
+tiff.dat <- cbind(tiff.dat[, c(2,1,3,4,6,5,7,8,9)])
+
+dat <- rbind(dat, tiff.dat)
 
 ## Just group by species ##
 sp <- dat %>% 
   group_by(sp) %>% 
-  summarise(total = sum(Count))
+  summarise(total = sum(count))
 
 ## Just fish for IACUC ##
 fish.sp <- fish %>% 
