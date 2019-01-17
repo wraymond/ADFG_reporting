@@ -1,384 +1,384 @@
-"Date","Site","Latitude","Longitude","collection_method","sp","Life_stage","count","Disposition"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Ammodytes hexapterus","adult/non-larval juveniles",87,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Apodichthys flavidus","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Aulorhynchus flavidus","adult/non-larval juveniles",15,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Blepsias cirrhosus","adult/non-larval juveniles",2,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Caprella_alaskana","adult/non-larval juveniles",0,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Citharichthys sordidus","adult/non-larval juveniles",13,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Clinocardium nuttalli","adult/non-larval juveniles",3,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",81,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Eelgrass","adult/non-larval juveniles",290,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Gadus macrocephalus","adult/non-larval juveniles",29,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Gammarid_amphipod","adult/non-larval juveniles",73,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Hemilepidotus sp.","adult/non-larval juveniles",5,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Hexagrammos stelleri","adult/non-larval juveniles",5,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Idotea_rascata","adult/non-larval juveniles",9,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Idotea_rascata","adult/non-larval juveniles",24,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Lepidopsetta spp.","adult/non-larval juveniles",9,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Leptocottus armatus","adult/non-larval juveniles",18,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Littorina_sp","adult/non-larval juveniles",42,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Lottia_sp","adult/non-larval juveniles",251,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Lottia_sp","adult/non-larval juveniles",12,"regular trash"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",394,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Macoma inquinata","adult/non-larval juveniles",35,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Macoma nasuta","adult/non-larval juveniles",7,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Macoma sp.","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"crab pot","Metacarcinus magister","adult/non-larval juveniles",5,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Metacarcinus magister","adult/non-larval juveniles",6,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",13,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Nautichthys oculofasciatus","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Nereidae","adult/non-larval juveniles",3,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Oncorhynchus kisutch","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Ophiodon elongatus","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Pallasina barbata","adult/non-larval juveniles",62,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Pandalus danae","adult/non-larval juveniles",3,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Parophrys vetulus","adult/non-larval juveniles",31,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Pholidae","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Pholis laeta","adult/non-larval juveniles",132,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Protothaca staminea","adult/non-larval juveniles",11,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Pugettia producta","adult/non-larval juveniles",1,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Saccharina lattisima","adult/non-larval juveniles",5,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Squalus acanthias","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",26,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"crab pot","Telmessus cheiragonus","adult/non-larval juveniles",26,"released live into wild"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Telmessus cheiragonus","adult/non-larval juveniles",7,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Terebellidae","adult/non-larval juveniles",14,"freezer"
-"7/14/2018","Kaguk Cove",55.735283,-133.295189,"hand","Ulva sp.","adult/non-larval juveniles",3,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Anoplarchus insignis","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Artedius spp.","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Aulorhynchus flavidus","adult/non-larval juveniles",6,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Blepsias cirrhosus","adult/non-larval juveniles",1,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Caprella_alaskana","adult/non-larval juveniles",0,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Clinocardium nuttalli","adult/non-larval juveniles",3,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",41,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Eelgrass","adult/non-larval juveniles",333,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Gadus macrocephalus","adult/non-larval juveniles",58,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Gammarid_amphipod","adult/non-larval juveniles",40,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Hemilepidotus sp.","adult/non-larval juveniles",12,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Hexagrammos octogrammus","adult/non-larval juveniles",1,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Hexagrammos stelleri","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Idotea_rascata","adult/non-larval juveniles",11,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Idotea_rascata","adult/non-larval juveniles",64,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Lepidopsetta spp.","adult/non-larval juveniles",1,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Leptocottus armatus","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Littorina_sp","adult/non-larval juveniles",10,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Lottia_sp","adult/non-larval juveniles",188,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Lottia_sp","adult/non-larval juveniles",37,"regular trash"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",80,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Macoma inquinata","adult/non-larval juveniles",28,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"crab pot","Metacarcinus magister","adult/non-larval juveniles",2,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Metacarcinus magister","adult/non-larval juveniles",1,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",11,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Pallasina barbata","adult/non-larval juveniles",57,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Pandalus danae","adult/non-larval juveniles",3,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Parophrys vetulus","adult/non-larval juveniles",4,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Pholidae","adult/non-larval juveniles",2,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Pholis laeta","adult/non-larval juveniles",118,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Protothaca staminea","adult/non-larval juveniles",136,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Saccharina lattisima","adult/non-larval juveniles",3,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Sebastes auriculatus","adult/non-larval juveniles",1,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",6,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"crab pot","Telmessus cheiragonus","adult/non-larval juveniles",5,"released live into wild"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Telmessus cheiragonus","adult/non-larval juveniles",3,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Terebellidae","adult/non-larval juveniles",3,"freezer"
-"7/15/2018","Gaktu Cove",55.738953,-133.313514,"hand","Ulva sp.","adult/non-larval juveniles",3,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Ammodytes hexapterus","adult/non-larval juveniles",3,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Anoplarchus insignis","adult/non-larval juveniles",1,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Apodichthys flavidus","adult/non-larval juveniles",2,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Artedius spp.","adult/non-larval juveniles",1,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Blepsias cirrhosus","adult/non-larval juveniles",4,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Caprella_alaskana","adult/non-larval juveniles",0,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Clinocardium nuttalli","adult/non-larval juveniles",2,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Clupea pallasii","adult/non-larval juveniles",1,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",779,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Eelgrass","adult/non-larval juveniles",366,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Gadus macrocephalus","adult/non-larval juveniles",8,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Gammarid_amphipod","adult/non-larval juveniles",146,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",104,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Hemilepidotus sp.","adult/non-larval juveniles",5,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Hexagrammos stelleri","adult/non-larval juveniles",8,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Idotea_rascata","adult/non-larval juveniles",7,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Idotea_rascata","adult/non-larval juveniles",67,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Lepidopsetta spp.","adult/non-larval juveniles",25,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Leptocottus armatus","adult/non-larval juveniles",27,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Littorina_sp","adult/non-larval juveniles",3,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Lottia_sp","adult/non-larval juveniles",229,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Lottia_sp","adult/non-larval juveniles",4,"regular trash"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",1233,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Macoma inquinata","adult/non-larval juveniles",5,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"crab pot","Metacarcinus magister","adult/non-larval juveniles",28,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Metacarcinus magister","adult/non-larval juveniles",6,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",20,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Pallasina barbata","adult/non-larval juveniles",7,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Parophrys vetulus","adult/non-larval juveniles",14,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Pholis laeta","adult/non-larval juveniles",91,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Protothaca staminea","adult/non-larval juveniles",57,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Saccharina lattisima","adult/non-larval juveniles",1,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Saxidomus gigantea","adult/non-larval juveniles",7,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",16,"released live into wild"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Telmessus cheiragonus","adult/non-larval juveniles",3,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Terebellidae","adult/non-larval juveniles",6,"freezer"
-"7/16/2018","Nossuk Bay",55.706493,-133.341566,"hand","Ulva sp.","adult/non-larval juveniles",6,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Aulorhynchus flavidus","adult/non-larval juveniles",12,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"crab pot","Cancer productus","adult/non-larval juveniles",17,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Cancer productus","adult/non-larval juveniles",4,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Caprella_alaskana","adult/non-larval juveniles",1,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Clinocardium nuttalli","adult/non-larval juveniles",4,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",172,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Eelgrass","adult/non-larval juveniles",286,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Gammarid_amphipod","adult/non-larval juveniles",13,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",184,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Hemilepidotus sp.","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Hexagrammos stelleri","adult/non-larval juveniles",2,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Idotea_rascata","adult/non-larval juveniles",3,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Idotea_rascata","adult/non-larval juveniles",30,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Lepidopsetta bilineata","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Leptocottus armatus","adult/non-larval juveniles",2,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Littorina_sp","adult/non-larval juveniles",311,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Lottia_sp","adult/non-larval juveniles",29,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Lottia_sp","adult/non-larval juveniles",3,"regular trash"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",4,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Macoma inquinata","adult/non-larval juveniles",43,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"crab pot","Metacarcinus gracillis","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"crab pot","Metacarcinus magister","adult/non-larval juveniles",3,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Metacarcinus magister","adult/non-larval juveniles",5,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",4,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Nereidae","adult/non-larval juveniles",1,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Oncorhynchus kisutch","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Pallasina barbata","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Pandalus danae","adult/non-larval juveniles",6,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Pholidae","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Pholis laeta","adult/non-larval juveniles",5,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Pleuronectidae","adult/non-larval juveniles",2,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Protothaca staminea","adult/non-larval juveniles",39,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"crab pot","Pugettia producta","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Saxidomus gigantea","adult/non-larval juveniles",27,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",2,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"crab pot","Telmessus cheiragonus","adult/non-larval juveniles",3,"released live into wild"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Telmessus cheiragonus","adult/non-larval juveniles",1,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Terebellidae","adult/non-larval juveniles",2,"freezer"
-"7/11/2018","North Pass",55.229743,-132.924047,"hand","Ulva sp.","adult/non-larval juveniles",3,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Anoplarchus insignis","adult/non-larval juveniles",1,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Artedius spp.","adult/non-larval juveniles",7,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Aulorhynchus flavidus","adult/non-larval juveniles",7,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"crab pot","Cancer productus","adult/non-larval juveniles",19,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Cancer productus","adult/non-larval juveniles",5,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Caprella_alaskana","adult/non-larval juveniles",8,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Clinocardium nuttalli","adult/non-larval juveniles",4,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",63,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Eelgrass","adult/non-larval juveniles",313,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Enophrys bison","adult/non-larval juveniles",1,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Gammarid_amphipod","adult/non-larval juveniles",29,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",2757,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Hemilepidotus sp.","adult/non-larval juveniles",3,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Idotea_rascata","adult/non-larval juveniles",10,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Idotea_rascata","adult/non-larval juveniles",82,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Lepidopsetta spp.","adult/non-larval juveniles",4,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Leptocottus armatus","adult/non-larval juveniles",15,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Littorina_sp","adult/non-larval juveniles",120,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Lottia_sp","adult/non-larval juveniles",216,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Lottia_sp","adult/non-larval juveniles",10,"regular trash"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",163,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Macoma sp.","adult/non-larval juveniles",16,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"crab pot","Metacarcinus magister","adult/non-larval juveniles",2,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Metacarcinus magister","adult/non-larval juveniles",2,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Mya arenaria","adult/non-larval juveniles",4,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",47,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Pallasina barbata","adult/non-larval juveniles",17,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Pandalus danae","adult/non-larval juveniles",6,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Pholis laeta","adult/non-larval juveniles",52,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Protothaca staminea","adult/non-larval juveniles",27,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"crab pot","Pugettia producta","adult/non-larval juveniles",1,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Saccharina lattisima","adult/non-larval juveniles",6,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Saxidomus gigantea","adult/non-larval juveniles",17,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",22,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"crab pot","Telmessus cheiragonus","adult/non-larval juveniles",2,"released live into wild"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Terebellidae","adult/non-larval juveniles",4,"freezer"
-"7/12/2018","Natzuhini",55.249258,-132.881141,"hand","Ulva sp.","adult/non-larval juveniles",6,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Ammodytes hexapterus","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Anoplarchus insignis","adult/non-larval juveniles",3,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Apodichthys flavidus","adult/non-larval juveniles",7,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Artedius spp.","adult/non-larval juveniles",29,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Aulorhynchus flavidus","adult/non-larval juveniles",9,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"crab pot","Cancer productus","adult/non-larval juveniles",16,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Cancer productus","adult/non-larval juveniles",4,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Caprella_alaskana","adult/non-larval juveniles",1,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Citharichthys sordidus","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Clinocardium nuttalli","adult/non-larval juveniles",4,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Clupea pallasii","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Cymatogaster aggregata","adult/non-larval juveniles",35,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Eelgrass","adult/non-larval juveniles",349,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Enophrys bison","adult/non-larval juveniles",3,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Gadus macrocephalus","adult/non-larval juveniles",6,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Gammarid_amphipod","adult/non-larval juveniles",8,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Gasterosteus aculeatus","adult/non-larval juveniles",724,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Hexagrammos stelleri","adult/non-larval juveniles",2,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Idotea_rascata","adult/non-larval juveniles",11,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Idotea_rascata","adult/non-larval juveniles",81,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Leptocottus armatus","adult/non-larval juveniles",10,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Littorina_sp","adult/non-larval juveniles",443,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Lottia_sp","adult/non-larval juveniles",215,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Lottia_sp","adult/non-larval juveniles",10,"regular trash"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Lumpenus sagitta","adult/non-larval juveniles",347,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Macoma inquinata","adult/non-larval juveniles",44,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Macoma nasuta","adult/non-larval juveniles",6,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Macoma sp.","adult/non-larval juveniles",3,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"crab pot","Metacarcinus magister","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Metacarcinus magister","adult/non-larval juveniles",2,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Mya arenaria","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Myoxocephalus polyacanthocephalus","adult/non-larval juveniles",33,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Nereidae","adult/non-larval juveniles",1,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Pallasina barbata","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Pandalus danae","adult/non-larval juveniles",6,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Parophrys vetulus","adult/non-larval juveniles",4,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Pholis laeta","adult/non-larval juveniles",127,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Protothaca staminea","adult/non-larval juveniles",13,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"crab pot","Pugettia producta","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Saccharina lattisima","adult/non-larval juveniles",6,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Saxidomus gigantea","adult/non-larval juveniles",10,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Syngnathus leptorhynchus","adult/non-larval juveniles",30,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"beach seine","Teleostei","adult/non-larval juveniles",2,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"crab pot","Telmessus cheiragonus","adult/non-larval juveniles",8,"released live into wild"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Telmessus cheiragonus","adult/non-larval juveniles",3,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Terebellidae","adult/non-larval juveniles",3,"freezer"
-"7/13/2018","Sukkwan",55.189095,-132.84324,"hand","Ulva sp.","adult/non-larval juveniles",6,"freezer"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Cancer productus","adult/non-larval juveniles",2,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Cancridae","adult/non-larval juveniles",1,"released live into wild"
-"6/12/2018","S Wadleigh Island",-133.147345,55.528424,"hand","Cancridae","adult/non-larval juveniles",1,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Clinocardium nutallii","adult/non-larval juveniles",2,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Clinocardium nutallii","adult/non-larval juveniles",4,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Clinocardium nutallii","adult/non-larval juveniles",3,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Clinocardium nutallii","adult/non-larval juveniles",1,"released live into wild"
-"5/31/2018","Guktu Cove",-133.311306,55.740264,"hand","Clinocardium nutallii","adult/non-larval juveniles",2,"released live into wild"
-"5/29/2018","Hauti Island",-133.156399,55.865721,"hand","Clinocardium nutallii","adult/non-larval juveniles",3,"released live into wild"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Clinocardium nutallii","adult/non-larval juveniles",2,"released live into wild"
-"7/14/2018","Kinani Point",-133.250006,55.889904,"hand","Clinocardium nutallii","adult/non-larval juveniles",2,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Clinocardium nutallii","adult/non-larval juveniles",1,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Clinocardium nutallii","adult/non-larval juveniles",1,"released live into wild"
-"7/10/2018","Port Caldera",-133.161232,55.36209,"hand","Clinocardium nutallii","adult/non-larval juveniles",1,"released live into wild"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Clinocardium nutallii","adult/non-larval juveniles",3,"released live into wild"
-"6/17/2018","Shinaku Inlet",-133.160431,55.599083,"hand","Clinocardium nutallii","adult/non-larval juveniles",2,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Clinocardium nutallii","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kinani Point",-133.250006,55.889904,"hand","Diplodonta","adult/non-larval juveniles",1,"released live into wild"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Diplodonta","adult/non-larval juveniles",8,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Diplodonta","adult/non-larval juveniles",2,"released live into wild"
-"6/25/2018","S Fish Egg Island",-133.174447,55.485687,"hand","Diplodonta","adult/non-larval juveniles",5,"released live into wild"
-"5/18/2018","Salt Lake Bay",-133.377377,55.684275,"hand","Diplodonta","adult/non-larval juveniles",1,"released live into wild"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Diplodonta","adult/non-larval juveniles",1,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Haminoea virescens","adult/non-larval juveniles",9,"released live into wild"
-"6/16/2018","Mushroom Island",-132.846741,55.214375,"hand","Macoma carlottensis","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Macoma carlottensis","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","Big Tree Bay",-133.215512,55.585855,"hand","Macoma inquinata","adult/non-larval juveniles",4,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Macoma inquinata","adult/non-larval juveniles",9,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Macoma inquinata","adult/non-larval juveniles",16,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Macoma inquinata","adult/non-larval juveniles",14,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Macoma inquinata","adult/non-larval juveniles",13,"released live into wild"
-"5/31/2018","Guktu Cove",-133.311306,55.740264,"hand","Macoma inquinata","adult/non-larval juveniles",34,"released live into wild"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Macoma inquinata","adult/non-larval juveniles",27,"released live into wild"
-"6/16/2018","Mushroom Island",-132.846741,55.214375,"hand","Macoma inquinata","adult/non-larval juveniles",17,"released live into wild"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Macoma inquinata","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Macoma inquinata","adult/non-larval juveniles",4,"released live into wild"
-"6/16/2018","Natzuhini Bay 2",-132.837131,55.241887,"hand","Macoma inquinata","adult/non-larval juveniles",16,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Macoma inquinata","adult/non-larval juveniles",30,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Macoma inquinata","adult/non-larval juveniles",21,"released live into wild"
-"7/10/2018","Port Caldera",-133.161232,55.36209,"hand","Macoma inquinata","adult/non-larval juveniles",3,"released live into wild"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Macoma inquinata","adult/non-larval juveniles",4,"released live into wild"
-"6/12/2018","S Wadleigh Island",-133.147345,55.528424,"hand","Macoma inquinata","adult/non-larval juveniles",10,"released live into wild"
-"5/18/2018","Salt Lake Bay",-133.377377,55.684275,"hand","Macoma inquinata","adult/non-larval juveniles",1,"released live into wild"
-"6/17/2018","Shinaku Inlet",-133.160431,55.599083,"hand","Macoma inquinata","adult/non-larval juveniles",4,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Macoma inquinata","adult/non-larval juveniles",2,"released live into wild"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Macoma inquinata","adult/non-larval juveniles",6,"released live into wild"
-"7/11/2018","Big Tree Bay",-133.215512,55.585855,"hand","Macoma nasuta","adult/non-larval juveniles",10,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Macoma nasuta","adult/non-larval juveniles",12,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Macoma nasuta","adult/non-larval juveniles",15,"released live into wild"
-"6/14/2018","Goat Mouth Inlet",-132.9,55.19286,"hand","Macoma nasuta","adult/non-larval juveniles",2,"released live into wild"
-"5/29/2018","Hauti Island",-133.156399,55.865721,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kinani Point",-133.250006,55.889904,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"6/16/2018","Mushroom Island",-132.846741,55.214375,"hand","Macoma nasuta","adult/non-larval juveniles",21,"released live into wild"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Macoma nasuta","adult/non-larval juveniles",6,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Macoma nasuta","adult/non-larval juveniles",6,"released live into wild"
-"6/16/2018","Natzuhini Bay 2",-132.837131,55.241887,"hand","Macoma nasuta","adult/non-larval juveniles",3,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Macoma nasuta","adult/non-larval juveniles",2,"released live into wild"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Macoma nasuta","adult/non-larval juveniles",8,"released live into wild"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Macoma nasuta","adult/non-larval juveniles",1,"released live into wild"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Macoma nasuta","adult/non-larval juveniles",4,"released live into wild"
-"7/11/2018","Big Tree Bay",-133.215512,55.585855,"hand","Myidae","adult/non-larval juveniles",1,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Myidae","adult/non-larval juveniles",1,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Paguridae","adult/non-larval juveniles",2,"released live into wild"
-"6/16/2018","Natzuhini Bay 2",-132.837131,55.241887,"hand","Paguridae","adult/non-larval juveniles",1,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Paguridae","adult/non-larval juveniles",1,"released live into wild"
-"5/18/2018","Salt Lake Bay",-133.377377,55.684275,"hand","Paguridae","adult/non-larval juveniles",1,"released live into wild"
-"6/17/2018","Shinaku Inlet",-133.160431,55.599083,"hand","Paguridae","adult/non-larval juveniles",2,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Paguridae","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Pinnotheridae","adult/non-larval juveniles",1,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Polinices lewisii","adult/non-larval juveniles",1,"released live into wild"
-"7/11/2018","Big Tree Bay",-133.215512,55.585855,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Protothaca staminea","adult/non-larval juveniles",6,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Protothaca staminea","adult/non-larval juveniles",7,"released live into wild"
-"6/14/2018","Goat Mouth Inlet",-132.9,55.19286,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"5/31/2018","Guktu Cove",-133.311306,55.740264,"hand","Protothaca staminea","adult/non-larval juveniles",4,"released live into wild"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Protothaca staminea","adult/non-larval juveniles",2,"released live into wild"
-"6/16/2018","Mushroom Island",-132.846741,55.214375,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Protothaca staminea","adult/non-larval juveniles",3,"released live into wild"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Protothaca staminea","adult/non-larval juveniles",1,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Protothaca staminea","adult/non-larval juveniles",8,"released live into wild"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Protothaca staminea","adult/non-larval juveniles",3,"released live into wild"
-"6/25/2018","S Fish Egg Island",-133.174447,55.485687,"hand","Protothaca staminea","adult/non-larval juveniles",2,"released live into wild"
-"6/12/2018","S Wadleigh Island",-133.147345,55.528424,"hand","Protothaca staminea","adult/non-larval juveniles",2,"released live into wild"
-"6/17/2018","Shinaku Inlet",-133.160431,55.599083,"hand","Protothaca staminea","adult/non-larval juveniles",8,"released live into wild"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Protothaca staminea","adult/non-larval juveniles",2,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Pugettia producta","adult/non-larval juveniles",1,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Saxidomus gigantea","adult/non-larval juveniles",2,"released live into wild"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Saxidomus gigantea","adult/non-larval juveniles",2,"released live into wild"
-"6/25/2018","S Fish Egg Island",-133.174447,55.485687,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"6/12/2018","S Wadleigh Island",-133.147345,55.528424,"hand","Saxidomus gigantea","adult/non-larval juveniles",2,"released live into wild"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Saxidomus gigantea","adult/non-larval juveniles",1,"released live into wild"
-"7/14/2018","Kinani Point",-133.250006,55.889904,"hand","Telina","adult/non-larval juveniles",1,"released live into wild"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Tellina","adult/non-larval juveniles",1,"released live into wild"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Tellina","adult/non-larval juveniles",1,"released live into wild"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Tellina","adult/non-larval juveniles",1,"released live into wild"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Tellina","adult/non-larval juveniles",4,"released live into wild"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Tellina","adult/non-larval juveniles",1,"released live into wild"
-"6/25/2018","S Fish Egg Island",-133.174447,55.485687,"hand","Tellina","adult/non-larval juveniles",1,"released live into wild"
-"7/13/2018","Big Clam Bay",-132.973932,55.227691,"hand","Zostera marina","adult/non-larval juveniles",159,"regular trash"
-"7/11/2018","Big Tree Bay",-133.215512,55.585855,"hand","Zostera marina","adult/non-larval juveniles",194,"regular trash"
-"6/18/2018","Blanquizal Bay",-133.387067,55.621174,"hand","Zostera marina","adult/non-larval juveniles",225,"regular trash"
-"6/13/2018","Chusini",-133.167403,55.813558,"hand","Zostera marina","adult/non-larval juveniles",53,"regular trash"
-"8/11/2018","Dunbar Inlet",-132.826,55.0848,"hand","Zostera marina","adult/non-larval juveniles",143,"regular trash"
-"7/12/2018","Garcia Cove",-133.430032,55.552181,"hand","Zostera marina","adult/non-larval juveniles",62,"regular trash"
-"6/14/2018","Goat Mouth Inlet",-132.9,55.19286,"hand","Zostera marina","adult/non-larval juveniles",105,"regular trash"
-"5/31/2018","Guktu Cove",-133.311306,55.740264,"hand","Zostera marina","adult/non-larval juveniles",78,"regular trash"
-"5/29/2018","Hauti Island",-133.156399,55.865721,"hand","Zostera marina","adult/non-larval juveniles",36,"regular trash"
-"5/30/2018","Kaguk Cove",-133.29047,55.733423,"hand","Zostera marina","adult/non-larval juveniles",55,"regular trash"
-"7/14/2018","Kinani Point",-133.250006,55.889904,"hand","Zostera marina","adult/non-larval juveniles",113,"regular trash"
-"6/16/2018","Mushroom Island",-132.846741,55.214375,"hand","Zostera marina","adult/non-larval juveniles",103,"regular trash"
-"6/28/2018","N Fish Egg Island",-133.170812,55.496472,"hand","Zostera marina","adult/non-larval juveniles",177,"regular trash"
-"6/15/2018","Natzuhini Bay 1",-132.879147,55.247539,"hand","Zostera marina","adult/non-larval juveniles",80,"regular trash"
-"6/16/2018","Natzuhini Bay 2",-132.837131,55.241887,"hand","Zostera marina","adult/non-larval juveniles",36,"regular trash"
-"6/15/2018","North Pass",-132.910143,55.228252,"hand","Zostera marina","adult/non-larval juveniles",85,"regular trash"
-"5/19/2018","Nossuk Bay 1",-133.348326,55.709094,"hand","Zostera marina","adult/non-larval juveniles",76,"regular trash"
-"6/30/2018","Nossuk Bay 2",-133.325372,55.722637,"hand","Zostera marina","adult/non-larval juveniles",107,"regular trash"
-"7/10/2018","Port Caldera",-133.161232,55.36209,"hand","Zostera marina","adult/non-larval juveniles",180,"regular trash"
-"8/10/2018","Port Refugio",-133.334028,55.282137,"hand","Zostera marina","adult/non-larval juveniles",180,"regular trash"
-"6/25/2018","S Fish Egg Island",-133.174447,55.485687,"hand","Zostera marina","adult/non-larval juveniles",112,"regular trash"
-"6/12/2018","S Wadleigh Island",-133.147345,55.528424,"hand","Zostera marina","adult/non-larval juveniles",98,"regular trash"
-"5/18/2018","Salt Lake Bay",-133.377377,55.684275,"hand","Zostera marina","adult/non-larval juveniles",77,"regular trash"
-"6/17/2018","Shinaku Inlet",-133.160431,55.599083,"hand","Zostera marina","adult/non-larval juveniles",84,"regular trash"
-"6/27/2018","Soda Bay",-132.994318,55.264232,"hand","Zostera marina","adult/non-larval juveniles",135,"regular trash"
-"6/14/2018","Sukkwan Narrows",-132.842514,55.188785,"hand","Zostera marina","adult/non-larval juveniles",81,"regular trash"
+Date,Site,Latitude,Longitude,collection_method,sp,Life_stage,count,Disposition
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Ammodytes hexapterus,adult/non-larval juveniles,87,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Apodichthys flavidus,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Aulorhynchus flavidus,adult/non-larval juveniles,15,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Blepsias cirrhosus,adult/non-larval juveniles,2,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Caprella_alaskana,adult/non-larval juveniles,0,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Citharichthys sordidus,adult/non-larval juveniles,13,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Clinocardium nuttalli,adult/non-larval juveniles,3,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,81,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Eelgrass,adult/non-larval juveniles,290,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Gadus macrocephalus,adult/non-larval juveniles,29,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Gammarid_amphipod,adult/non-larval juveniles,73,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Hemilepidotus sp.,adult/non-larval juveniles,5,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Hexagrammos stelleri,adult/non-larval juveniles,5,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Idotea_rascata,adult/non-larval juveniles,9,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Idotea_rascata,adult/non-larval juveniles,24,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Lepidopsetta spp.,adult/non-larval juveniles,9,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Leptocottus armatus,adult/non-larval juveniles,18,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Littorina_sp,adult/non-larval juveniles,42,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Lottia_sp,adult/non-larval juveniles,251,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Lottia_sp,adult/non-larval juveniles,12,regular trash
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Lumpenus sagitta,adult/non-larval juveniles,394,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Macoma inquinata,adult/non-larval juveniles,35,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Macoma nasuta,adult/non-larval juveniles,7,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Macoma sp.,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,crab pot,Metacarcinus magister,adult/non-larval juveniles,5,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Metacarcinus magister,adult/non-larval juveniles,6,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,13,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Nautichthys oculofasciatus,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Nereidae,adult/non-larval juveniles,3,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Oncorhynchus kisutch,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Ophiodon elongatus,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Pallasina barbata,adult/non-larval juveniles,62,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Pandalus danae,adult/non-larval juveniles,3,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Parophrys vetulus,adult/non-larval juveniles,31,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Pholidae,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Pholis laeta,adult/non-larval juveniles,132,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Protothaca staminea,adult/non-larval juveniles,11,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Pugettia producta,adult/non-larval juveniles,1,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Saccharina lattisima,adult/non-larval juveniles,5,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Squalus acanthias,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,26,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,crab pot,Telmessus cheiragonus,adult/non-larval juveniles,26,released live into wild
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Telmessus cheiragonus,adult/non-larval juveniles,7,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Terebellidae,adult/non-larval juveniles,14,freezer
+7/14/2018,Kaguk Cove,55.735283,-133.295189,hand,Ulva sp.,adult/non-larval juveniles,3,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Anoplarchus insignis,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Artedius spp.,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Aulorhynchus flavidus,adult/non-larval juveniles,6,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Blepsias cirrhosus,adult/non-larval juveniles,1,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Caprella_alaskana,adult/non-larval juveniles,0,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Clinocardium nuttalli,adult/non-larval juveniles,3,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,41,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Eelgrass,adult/non-larval juveniles,333,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Gadus macrocephalus,adult/non-larval juveniles,58,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Gammarid_amphipod,adult/non-larval juveniles,40,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Hemilepidotus sp.,adult/non-larval juveniles,12,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Hexagrammos octogrammus,adult/non-larval juveniles,1,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Hexagrammos stelleri,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Idotea_rascata,adult/non-larval juveniles,11,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Idotea_rascata,adult/non-larval juveniles,64,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Lepidopsetta spp.,adult/non-larval juveniles,1,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Leptocottus armatus,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Littorina_sp,adult/non-larval juveniles,10,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Lottia_sp,adult/non-larval juveniles,188,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Lottia_sp,adult/non-larval juveniles,37,regular trash
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Lumpenus sagitta,adult/non-larval juveniles,80,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Macoma inquinata,adult/non-larval juveniles,28,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,crab pot,Metacarcinus magister,adult/non-larval juveniles,2,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Metacarcinus magister,adult/non-larval juveniles,1,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,11,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Pallasina barbata,adult/non-larval juveniles,57,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Pandalus danae,adult/non-larval juveniles,3,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Parophrys vetulus,adult/non-larval juveniles,4,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Pholidae,adult/non-larval juveniles,2,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Pholis laeta,adult/non-larval juveniles,118,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Protothaca staminea,adult/non-larval juveniles,136,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Saccharina lattisima,adult/non-larval juveniles,3,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Sebastes auriculatus,adult/non-larval juveniles,1,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,6,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,crab pot,Telmessus cheiragonus,adult/non-larval juveniles,5,released live into wild
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Telmessus cheiragonus,adult/non-larval juveniles,3,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Terebellidae,adult/non-larval juveniles,3,freezer
+7/15/2018,Gaktu Cove,55.738953,-133.313514,hand,Ulva sp.,adult/non-larval juveniles,3,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Ammodytes hexapterus,adult/non-larval juveniles,3,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Anoplarchus insignis,adult/non-larval juveniles,1,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Apodichthys flavidus,adult/non-larval juveniles,2,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Artedius spp.,adult/non-larval juveniles,1,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Blepsias cirrhosus,adult/non-larval juveniles,4,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Caprella_alaskana,adult/non-larval juveniles,0,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Clinocardium nuttalli,adult/non-larval juveniles,2,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Clupea pallasii,adult/non-larval juveniles,1,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,779,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Eelgrass,adult/non-larval juveniles,366,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Gadus macrocephalus,adult/non-larval juveniles,8,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Gammarid_amphipod,adult/non-larval juveniles,146,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,104,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Hemilepidotus sp.,adult/non-larval juveniles,5,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Hexagrammos stelleri,adult/non-larval juveniles,8,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Idotea_rascata,adult/non-larval juveniles,7,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Idotea_rascata,adult/non-larval juveniles,67,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Lepidopsetta spp.,adult/non-larval juveniles,25,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Leptocottus armatus,adult/non-larval juveniles,27,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Littorina_sp,adult/non-larval juveniles,3,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Lottia_sp,adult/non-larval juveniles,229,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Lottia_sp,adult/non-larval juveniles,4,regular trash
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Lumpenus sagitta,adult/non-larval juveniles,1233,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Macoma inquinata,adult/non-larval juveniles,5,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,crab pot,Metacarcinus magister,adult/non-larval juveniles,28,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Metacarcinus magister,adult/non-larval juveniles,6,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,20,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Pallasina barbata,adult/non-larval juveniles,7,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Parophrys vetulus,adult/non-larval juveniles,14,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Pholis laeta,adult/non-larval juveniles,91,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Protothaca staminea,adult/non-larval juveniles,57,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Saccharina lattisima,adult/non-larval juveniles,1,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Saxidomus gigantea,adult/non-larval juveniles,7,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,16,released live into wild
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Telmessus cheiragonus,adult/non-larval juveniles,3,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Terebellidae,adult/non-larval juveniles,6,freezer
+7/16/2018,Nossuk Bay,55.706493,-133.341566,hand,Ulva sp.,adult/non-larval juveniles,6,freezer
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Aulorhynchus flavidus,adult/non-larval juveniles,12,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,crab pot,Cancer productus,adult/non-larval juveniles,17,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Cancer productus,adult/non-larval juveniles,4,freezer
+7/11/2018,North Pass,55.229743,-132.924047,hand,Caprella_alaskana,adult/non-larval juveniles,1,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,hand,Clinocardium nuttalli,adult/non-larval juveniles,4,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,172,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Eelgrass,adult/non-larval juveniles,286,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,hand,Gammarid_amphipod,adult/non-larval juveniles,13,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,184,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Hemilepidotus sp.,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Hexagrammos stelleri,adult/non-larval juveniles,2,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Idotea_rascata,adult/non-larval juveniles,3,freezer
+7/11/2018,North Pass,55.229743,-132.924047,hand,Idotea_rascata,adult/non-larval juveniles,30,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Lepidopsetta bilineata,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Leptocottus armatus,adult/non-larval juveniles,2,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Littorina_sp,adult/non-larval juveniles,311,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,hand,Lottia_sp,adult/non-larval juveniles,29,freezer
+7/11/2018,North Pass,55.229743,-132.924047,hand,Lottia_sp,adult/non-larval juveniles,3,regular trash
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Lumpenus sagitta,adult/non-larval juveniles,4,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Macoma inquinata,adult/non-larval juveniles,43,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,crab pot,Metacarcinus gracillis,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,crab pot,Metacarcinus magister,adult/non-larval juveniles,3,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Metacarcinus magister,adult/non-larval juveniles,5,freezer
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,4,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Nereidae,adult/non-larval juveniles,1,freezer
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Oncorhynchus kisutch,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Pallasina barbata,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Pandalus danae,adult/non-larval juveniles,6,freezer
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Pholidae,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Pholis laeta,adult/non-larval juveniles,5,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Pleuronectidae,adult/non-larval juveniles,2,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Protothaca staminea,adult/non-larval juveniles,39,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,crab pot,Pugettia producta,adult/non-larval juveniles,1,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Saxidomus gigantea,adult/non-larval juveniles,27,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,2,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,crab pot,Telmessus cheiragonus,adult/non-larval juveniles,3,released live into wild
+7/11/2018,North Pass,55.229743,-132.924047,hand,Telmessus cheiragonus,adult/non-larval juveniles,1,freezer
+7/11/2018,North Pass,55.229743,-132.924047,hand,Terebellidae,adult/non-larval juveniles,2,freezer
+7/11/2018,North Pass,55.229743,-132.924047,hand,Ulva sp.,adult/non-larval juveniles,3,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Anoplarchus insignis,adult/non-larval juveniles,1,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Artedius spp.,adult/non-larval juveniles,7,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Aulorhynchus flavidus,adult/non-larval juveniles,7,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,crab pot,Cancer productus,adult/non-larval juveniles,19,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Cancer productus,adult/non-larval juveniles,5,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Caprella_alaskana,adult/non-larval juveniles,8,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Clinocardium nuttalli,adult/non-larval juveniles,4,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,63,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Eelgrass,adult/non-larval juveniles,313,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Enophrys bison,adult/non-larval juveniles,1,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Gammarid_amphipod,adult/non-larval juveniles,29,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,2757,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Hemilepidotus sp.,adult/non-larval juveniles,3,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Idotea_rascata,adult/non-larval juveniles,10,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Idotea_rascata,adult/non-larval juveniles,82,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Lepidopsetta spp.,adult/non-larval juveniles,4,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Leptocottus armatus,adult/non-larval juveniles,15,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Littorina_sp,adult/non-larval juveniles,120,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Lottia_sp,adult/non-larval juveniles,216,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Lottia_sp,adult/non-larval juveniles,10,regular trash
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Lumpenus sagitta,adult/non-larval juveniles,163,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Macoma sp.,adult/non-larval juveniles,16,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,crab pot,Metacarcinus magister,adult/non-larval juveniles,2,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Metacarcinus magister,adult/non-larval juveniles,2,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Mya arenaria,adult/non-larval juveniles,4,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,47,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Pallasina barbata,adult/non-larval juveniles,17,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Pandalus danae,adult/non-larval juveniles,6,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Pholis laeta,adult/non-larval juveniles,52,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Protothaca staminea,adult/non-larval juveniles,27,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,crab pot,Pugettia producta,adult/non-larval juveniles,1,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Saccharina lattisima,adult/non-larval juveniles,6,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Saxidomus gigantea,adult/non-larval juveniles,17,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,22,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,crab pot,Telmessus cheiragonus,adult/non-larval juveniles,2,released live into wild
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Terebellidae,adult/non-larval juveniles,4,freezer
+7/12/2018,Natzuhini,55.249258,-132.881141,hand,Ulva sp.,adult/non-larval juveniles,6,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Ammodytes hexapterus,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Anoplarchus insignis,adult/non-larval juveniles,3,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Apodichthys flavidus,adult/non-larval juveniles,7,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Artedius spp.,adult/non-larval juveniles,29,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Aulorhynchus flavidus,adult/non-larval juveniles,9,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,crab pot,Cancer productus,adult/non-larval juveniles,16,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Cancer productus,adult/non-larval juveniles,4,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Caprella_alaskana,adult/non-larval juveniles,1,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Citharichthys sordidus,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Clinocardium nuttalli,adult/non-larval juveniles,4,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Clupea pallasii,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Cymatogaster aggregata,adult/non-larval juveniles,35,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Eelgrass,adult/non-larval juveniles,349,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Enophrys bison,adult/non-larval juveniles,3,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Gadus macrocephalus,adult/non-larval juveniles,6,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Gammarid_amphipod,adult/non-larval juveniles,8,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Gasterosteus aculeatus,adult/non-larval juveniles,724,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Hexagrammos stelleri,adult/non-larval juveniles,2,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Idotea_rascata,adult/non-larval juveniles,11,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Idotea_rascata,adult/non-larval juveniles,81,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Leptocottus armatus,adult/non-larval juveniles,10,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Littorina_sp,adult/non-larval juveniles,443,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Lottia_sp,adult/non-larval juveniles,215,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Lottia_sp,adult/non-larval juveniles,10,regular trash
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Lumpenus sagitta,adult/non-larval juveniles,347,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Macoma inquinata,adult/non-larval juveniles,44,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Macoma nasuta,adult/non-larval juveniles,6,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Macoma sp.,adult/non-larval juveniles,3,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,crab pot,Metacarcinus magister,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Metacarcinus magister,adult/non-larval juveniles,2,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Mya arenaria,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Myoxocephalus polyacanthocephalus,adult/non-larval juveniles,33,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Nereidae,adult/non-larval juveniles,1,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Pallasina barbata,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Pandalus danae,adult/non-larval juveniles,6,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Parophrys vetulus,adult/non-larval juveniles,4,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Pholis laeta,adult/non-larval juveniles,127,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Protothaca staminea,adult/non-larval juveniles,13,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,crab pot,Pugettia producta,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Saccharina lattisima,adult/non-larval juveniles,6,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Saxidomus gigantea,adult/non-larval juveniles,10,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Syngnathus leptorhynchus,adult/non-larval juveniles,30,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,beach seine,Teleostei,adult/non-larval juveniles,2,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,crab pot,Telmessus cheiragonus,adult/non-larval juveniles,8,released live into wild
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Telmessus cheiragonus,adult/non-larval juveniles,3,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Terebellidae,adult/non-larval juveniles,3,freezer
+7/13/2018,Sukkwan,55.189095,-132.84324,hand,Ulva sp.,adult/non-larval juveniles,6,freezer
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Cancer productus,adult/non-larval juveniles,2,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Cancridae,adult/non-larval juveniles,1,released live into wild
+6/12/2018,S Wadleigh Island,-133.147345,55.528424,hand,Cancridae,adult/non-larval juveniles,1,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Clinocardium nutallii,adult/non-larval juveniles,2,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Clinocardium nutallii,adult/non-larval juveniles,4,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Clinocardium nutallii,adult/non-larval juveniles,3,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Clinocardium nutallii,adult/non-larval juveniles,1,released live into wild
+5/31/2018,Guktu Cove,-133.311306,55.740264,hand,Clinocardium nutallii,adult/non-larval juveniles,2,released live into wild
+5/29/2018,Hauti Island,-133.156399,55.865721,hand,Clinocardium nutallii,adult/non-larval juveniles,3,released live into wild
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Clinocardium nutallii,adult/non-larval juveniles,2,released live into wild
+7/14/2018,Kinani Point,-133.250006,55.889904,hand,Clinocardium nutallii,adult/non-larval juveniles,2,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Clinocardium nutallii,adult/non-larval juveniles,1,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Clinocardium nutallii,adult/non-larval juveniles,1,released live into wild
+7/10/2018,Port Caldera,-133.161232,55.36209,hand,Clinocardium nutallii,adult/non-larval juveniles,1,released live into wild
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Clinocardium nutallii,adult/non-larval juveniles,3,released live into wild
+6/17/2018,Shinaku Inlet,-133.160431,55.599083,hand,Clinocardium nutallii,adult/non-larval juveniles,2,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Clinocardium nutallii,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kinani Point,-133.250006,55.889904,hand,Diplodonta,adult/non-larval juveniles,1,released live into wild
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Diplodonta,adult/non-larval juveniles,8,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Diplodonta,adult/non-larval juveniles,2,released live into wild
+6/25/2018,S Fish Egg Island,-133.174447,55.485687,hand,Diplodonta,adult/non-larval juveniles,5,released live into wild
+5/18/2018,Salt Lake Bay,-133.377377,55.684275,hand,Diplodonta,adult/non-larval juveniles,1,released live into wild
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Diplodonta,adult/non-larval juveniles,1,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Haminoea virescens,adult/non-larval juveniles,9,released live into wild
+6/16/2018,Mushroom Island,-132.846741,55.214375,hand,Macoma carlottensis,adult/non-larval juveniles,1,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Macoma carlottensis,adult/non-larval juveniles,1,released live into wild
+7/11/2018,Big Tree Bay,-133.215512,55.585855,hand,Macoma inquinata,adult/non-larval juveniles,4,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Macoma inquinata,adult/non-larval juveniles,9,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Macoma inquinata,adult/non-larval juveniles,16,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Macoma inquinata,adult/non-larval juveniles,14,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Macoma inquinata,adult/non-larval juveniles,13,released live into wild
+5/31/2018,Guktu Cove,-133.311306,55.740264,hand,Macoma inquinata,adult/non-larval juveniles,34,released live into wild
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Macoma inquinata,adult/non-larval juveniles,27,released live into wild
+6/16/2018,Mushroom Island,-132.846741,55.214375,hand,Macoma inquinata,adult/non-larval juveniles,17,released live into wild
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Macoma inquinata,adult/non-larval juveniles,1,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Macoma inquinata,adult/non-larval juveniles,4,released live into wild
+6/16/2018,Natzuhini Bay 2,-132.837131,55.241887,hand,Macoma inquinata,adult/non-larval juveniles,16,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Macoma inquinata,adult/non-larval juveniles,30,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Macoma inquinata,adult/non-larval juveniles,21,released live into wild
+7/10/2018,Port Caldera,-133.161232,55.36209,hand,Macoma inquinata,adult/non-larval juveniles,3,released live into wild
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Macoma inquinata,adult/non-larval juveniles,4,released live into wild
+6/12/2018,S Wadleigh Island,-133.147345,55.528424,hand,Macoma inquinata,adult/non-larval juveniles,10,released live into wild
+5/18/2018,Salt Lake Bay,-133.377377,55.684275,hand,Macoma inquinata,adult/non-larval juveniles,1,released live into wild
+6/17/2018,Shinaku Inlet,-133.160431,55.599083,hand,Macoma inquinata,adult/non-larval juveniles,4,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Macoma inquinata,adult/non-larval juveniles,2,released live into wild
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Macoma inquinata,adult/non-larval juveniles,6,released live into wild
+7/11/2018,Big Tree Bay,-133.215512,55.585855,hand,Macoma nasuta,adult/non-larval juveniles,10,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Macoma nasuta,adult/non-larval juveniles,12,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Macoma nasuta,adult/non-larval juveniles,15,released live into wild
+6/14/2018,Goat Mouth Inlet,-132.9,55.19286,hand,Macoma nasuta,adult/non-larval juveniles,2,released live into wild
+5/29/2018,Hauti Island,-133.156399,55.865721,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kinani Point,-133.250006,55.889904,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+6/16/2018,Mushroom Island,-132.846741,55.214375,hand,Macoma nasuta,adult/non-larval juveniles,21,released live into wild
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Macoma nasuta,adult/non-larval juveniles,6,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Macoma nasuta,adult/non-larval juveniles,6,released live into wild
+6/16/2018,Natzuhini Bay 2,-132.837131,55.241887,hand,Macoma nasuta,adult/non-larval juveniles,3,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Macoma nasuta,adult/non-larval juveniles,2,released live into wild
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Macoma nasuta,adult/non-larval juveniles,8,released live into wild
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Macoma nasuta,adult/non-larval juveniles,1,released live into wild
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Macoma nasuta,adult/non-larval juveniles,4,released live into wild
+7/11/2018,Big Tree Bay,-133.215512,55.585855,hand,Myidae,adult/non-larval juveniles,1,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Myidae,adult/non-larval juveniles,1,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Paguridae,adult/non-larval juveniles,2,released live into wild
+6/16/2018,Natzuhini Bay 2,-132.837131,55.241887,hand,Paguridae,adult/non-larval juveniles,1,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Paguridae,adult/non-larval juveniles,1,released live into wild
+5/18/2018,Salt Lake Bay,-133.377377,55.684275,hand,Paguridae,adult/non-larval juveniles,1,released live into wild
+6/17/2018,Shinaku Inlet,-133.160431,55.599083,hand,Paguridae,adult/non-larval juveniles,2,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Paguridae,adult/non-larval juveniles,1,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Pinnotheridae,adult/non-larval juveniles,1,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Polinices lewisii,adult/non-larval juveniles,1,released live into wild
+7/11/2018,Big Tree Bay,-133.215512,55.585855,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Protothaca staminea,adult/non-larval juveniles,6,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Protothaca staminea,adult/non-larval juveniles,7,released live into wild
+6/14/2018,Goat Mouth Inlet,-132.9,55.19286,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+5/31/2018,Guktu Cove,-133.311306,55.740264,hand,Protothaca staminea,adult/non-larval juveniles,4,released live into wild
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Protothaca staminea,adult/non-larval juveniles,2,released live into wild
+6/16/2018,Mushroom Island,-132.846741,55.214375,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Protothaca staminea,adult/non-larval juveniles,3,released live into wild
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Protothaca staminea,adult/non-larval juveniles,1,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Protothaca staminea,adult/non-larval juveniles,8,released live into wild
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Protothaca staminea,adult/non-larval juveniles,3,released live into wild
+6/25/2018,S Fish Egg Island,-133.174447,55.485687,hand,Protothaca staminea,adult/non-larval juveniles,2,released live into wild
+6/12/2018,S Wadleigh Island,-133.147345,55.528424,hand,Protothaca staminea,adult/non-larval juveniles,2,released live into wild
+6/17/2018,Shinaku Inlet,-133.160431,55.599083,hand,Protothaca staminea,adult/non-larval juveniles,8,released live into wild
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Protothaca staminea,adult/non-larval juveniles,2,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Pugettia producta,adult/non-larval juveniles,1,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Saxidomus gigantea,adult/non-larval juveniles,2,released live into wild
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+6/15/2018,North Pass,-132.910143,55.228252,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Saxidomus gigantea,adult/non-larval juveniles,2,released live into wild
+6/25/2018,S Fish Egg Island,-133.174447,55.485687,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+6/12/2018,S Wadleigh Island,-133.147345,55.528424,hand,Saxidomus gigantea,adult/non-larval juveniles,2,released live into wild
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Saxidomus gigantea,adult/non-larval juveniles,1,released live into wild
+7/14/2018,Kinani Point,-133.250006,55.889904,hand,Telina,adult/non-larval juveniles,1,released live into wild
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Tellina,adult/non-larval juveniles,1,released live into wild
+6/13/2018,Chusini,-133.167403,55.813558,hand,Tellina,adult/non-larval juveniles,1,released live into wild
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Tellina,adult/non-larval juveniles,1,released live into wild
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Tellina,adult/non-larval juveniles,4,released live into wild
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Tellina,adult/non-larval juveniles,1,released live into wild
+6/25/2018,S Fish Egg Island,-133.174447,55.485687,hand,Tellina,adult/non-larval juveniles,1,released live into wild
+7/13/2018,Big Clam Bay,-132.973932,55.227691,hand,Zostera marina,adult/non-larval juveniles,159,regular trash
+7/11/2018,Big Tree Bay,-133.215512,55.585855,hand,Zostera marina,adult/non-larval juveniles,194,regular trash
+6/18/2018,Blanquizal Bay,-133.387067,55.621174,hand,Zostera marina,adult/non-larval juveniles,225,regular trash
+6/13/2018,Chusini,-133.167403,55.813558,hand,Zostera marina,adult/non-larval juveniles,53,regular trash
+8/11/2018,Dunbar Inlet,-132.826,55.0848,hand,Zostera marina,adult/non-larval juveniles,143,regular trash
+7/12/2018,Garcia Cove,-133.430032,55.552181,hand,Zostera marina,adult/non-larval juveniles,62,regular trash
+6/14/2018,Goat Mouth Inlet,-132.9,55.19286,hand,Zostera marina,adult/non-larval juveniles,105,regular trash
+5/31/2018,Guktu Cove,-133.311306,55.740264,hand,Zostera marina,adult/non-larval juveniles,78,regular trash
+5/29/2018,Hauti Island,-133.156399,55.865721,hand,Zostera marina,adult/non-larval juveniles,36,regular trash
+5/30/2018,Kaguk Cove,-133.29047,55.733423,hand,Zostera marina,adult/non-larval juveniles,55,regular trash
+7/14/2018,Kinani Point,-133.250006,55.889904,hand,Zostera marina,adult/non-larval juveniles,113,regular trash
+6/16/2018,Mushroom Island,-132.846741,55.214375,hand,Zostera marina,adult/non-larval juveniles,103,regular trash
+6/28/2018,N Fish Egg Island,-133.170812,55.496472,hand,Zostera marina,adult/non-larval juveniles,177,regular trash
+6/15/2018,Natzuhini Bay 1,-132.879147,55.247539,hand,Zostera marina,adult/non-larval juveniles,80,regular trash
+6/16/2018,Natzuhini Bay 2,-132.837131,55.241887,hand,Zostera marina,adult/non-larval juveniles,36,regular trash
+6/15/2018,North Pass,-132.910143,55.228252,hand,Zostera marina,adult/non-larval juveniles,85,regular trash
+5/19/2018,Nossuk Bay 1,-133.348326,55.709094,hand,Zostera marina,adult/non-larval juveniles,76,regular trash
+6/30/2018,Nossuk Bay 2,-133.325372,55.722637,hand,Zostera marina,adult/non-larval juveniles,107,regular trash
+7/10/2018,Port Caldera,-133.161232,55.36209,hand,Zostera marina,adult/non-larval juveniles,180,regular trash
+8/10/2018,Port Refugio,-133.334028,55.282137,hand,Zostera marina,adult/non-larval juveniles,180,regular trash
+6/25/2018,S Fish Egg Island,-133.174447,55.485687,hand,Zostera marina,adult/non-larval juveniles,112,regular trash
+6/12/2018,S Wadleigh Island,-133.147345,55.528424,hand,Zostera marina,adult/non-larval juveniles,98,regular trash
+5/18/2018,Salt Lake Bay,-133.377377,55.684275,hand,Zostera marina,adult/non-larval juveniles,77,regular trash
+6/17/2018,Shinaku Inlet,-133.160431,55.599083,hand,Zostera marina,adult/non-larval juveniles,84,regular trash
+6/27/2018,Soda Bay,-132.994318,55.264232,hand,Zostera marina,adult/non-larval juveniles,135,regular trash
+6/14/2018,Sukkwan Narrows,-132.842514,55.188785,hand,Zostera marina,adult/non-larval juveniles,81,regular trash
