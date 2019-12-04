@@ -1,0 +1,56 @@
+---
+title: "ADFG_FRP_FISH414_2019"
+author: "Wendel Raymond"
+date: "December 3, 2019"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Alaska Department of Fish and Game Fisheries Resource permit reporting
+This script will take raw "tall" data, from multiple parent sources if necessary, and format it for the FRP reporting form.
+```{r libraries}
+library(dplyr)
+library(tidyr)
+```
+
+## Data
+```{r data}
+# Beach Seine
+fish.dat <- read.csv("C:/Users/Wendubs/Documents/Graduate School/Teaching/FISH 414/Beach_Seine_Data_2019.csv", stringsAsFactors = FALSE, header = TRUE)
+
+fish.dat$unmeasured <- as.numeric(fish.dat$unmeasured)
+```
+
+## Fish
+This data will come from the beach seine data. We also caught crabs in the beach seine so that will be extracted here and added to the crab derived above.
+```{r n fish}
+fish.m <- fish.dat %>%
+  filter(fork.length..mm. > 0)
+
+fish.um <- fish.dat  %>%
+  filter(unmeasured > 0)
+
+fish <- fish.m %>%
+  group_by(Site, scientific.name) %>% 
+  summarise(measured = n(),
+            mean_size = mean(fork.length..mm., na.rm = TRUE))
+
+```
+
+## Final clean up 
+```{r}
+fish[is.na(fish)] <- 0
+
+fish <- merge(fish, unique(fish.dat[, c(1,2,15,16)]), by = "Site", all.x = TRUE)
+
+fish$Disposition <- "released live into wild"
+fish$Life_Stage <- "adult/non-larval juveniles"
+
+fish <- cbind(fish[, c(5,1,6,7,2, 4, 9,3,8)])
+```
+
+## Export
+```{r}
+write.csv(fish, "ADFG_collections_CF_19_048.csv", row.names = FALSE)
+```
